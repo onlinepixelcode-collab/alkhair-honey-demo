@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+10:"/alkhair-honey-demo/_next/static/chunks/3hpld615ao8-w.js"
+11:I[22016,["$3","$4","$5","$6","$7","$10"],""]
+12:I[49986,["$3","$4","$5","$6","$7","$10"],"default"]
+13:I[20783,["$3","$4","$5","$6","$7","$10"],"default"]
+14:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$3","$4","$5","$6","$7"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3","$4","$5","$6","$7"],"$1a"]
+1c:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"phero","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap split","style":{"alignItems":"center"},"children":[["$","div",null,{"className":"stack","style":{"gap":18},"children":[["$","span",null,{"className":"eyebrow","children":["Honey collection · ",17," products"]}],["$","h1",null,{"data-split":true,"children":"Pure honey"}],["$","p",null,{"className":"lede","children":"Pure, raw honey with nothing added, named for the flowers the bees visited. Table honey, foodservice tubs, wholesale drums and private label."}],["$","div",null,{"className":"pill-row","children":[["$","$L11","infused",{"className":"chip","href":"/collection/infused","children":[["$","i",null,{}],"Infused honey"]}],["$","$L11","tibb",{"className":"chip","href":"/collection/tibb","children":[["$","i",null,{}],"NatuMed Tibb"]}],["$","$L11","comb",{"className":"chip","href":"/collection/comb","children":[["$","i",null,{}],"Honeycomb"]}],["$","$L11","gifts",{"className":"chip","href":"/collection/gifts","children":[["$","i",null,{}],"Gifting"]}],["$","$L11","body",{"className":"chip","href":"/collection/body","children":[["$","i",null,{}],"Body & beeswax"]}]]}]]}],["$","div",null,{"style":{"maxWidth":420,"justifySelf":"end","width":"100%"},"children":["$","$L12",null,{"tier":"white"}]}]]}]]}],["$","$L13",null,{"range":"natural"}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/3hpld615ao8-w.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$c"}}]]
+d:[["children",{"s":{"n":"range","t":"d","k":"natural","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$b","s":"$c"},"c":"$Qf"}]]
+1:[["children",{"s":"collection","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pure honey · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"Pure honey from Al Khair Honey: Raw single-nectar honey: liquid, creamed, unfiltered and comb."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Pure honey · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"Pure honey from Al Khair Honey: Raw single-nectar honey: liquid, creamed, unfiltered and comb."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Pure honey · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"Pure honey from Al Khair Honey: Raw single-nectar honey: liquid, creamed, unfiltered and comb."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L1c","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$c"}},"a":"$@1e","u":"$@1f","b":"ZQ0vJLy7cUZwNdkln72WT"}
+16:null
+1f:true
+c:300
+c:C
+1e:0
+e:"$undefined"
+a:"$undefined"
+1d:"$undefined"
+17:"$undefined"

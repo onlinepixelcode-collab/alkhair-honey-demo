@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:"/alkhair-honey-demo/_next/static/chunks/21teppx1h9_n_.js"
+f:I[90345,["$3","$4","$5","$6","$7","$e"],"default"]
+10:I[53949,["$3","$4","$5","$6","$7","$e"],"BudgetPlanner"]
+11:I[53949,["$3","$4","$5","$6","$7","$e"],"FavoursCalc"]
+12:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$3","$4","$5","$6","$7"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3","$4","$5","$6","$7"],"$18"]
+1a:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"phero","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap","children":[["$","span",null,{"className":"eyebrow","children":"Build your own gift box"}],["$","h1",null,{"data-split":true,"style":{"marginTop":18},"children":["Build a gift",["$","br",null,{}],"worth ",["$","em",null,{"className":"honey-text","children":"sharing."}]]}],["$","p",null,{"className":"lede","children":"Al Khair makes gifts to order for Eid, weddings and corporate events. Build a hexagon box here, hand them a budget, or order favours for every guest."}],"$undefined"]}]]}],["$","section",null,{"className":"section","id":"builder","style":{"paddingTop":0},"children":["$","div",null,{"className":"wrap","children":["$","$Lf",null,{}]}]}],["$","section",null,{"className":"section band--wax","id":"budget","children":["$","$L10",null,{}]}],["$","section",null,{"className":"section","id":"favours","children":["$","$L11",null,{}]}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/21teppx1h9_n_.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$c"}}]]
+1:[["children",{"s":"gift-box","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Build a gift worth sharing · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"Build an Al Khair hexagon gift box with two or three infused honeys, give us a budget and we'll build the set, or order honey favours for weddings and events."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Build a gift worth sharing · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"Build an Al Khair hexagon gift box with two or three infused honeys, give us a budget and we'll build the set, or order honey favours for weddings and events."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Build a gift worth sharing · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"Build an Al Khair hexagon gift box with two or three infused honeys, give us a budget and we'll build the set, or order honey favours for weddings and events."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L1a","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$c"}},"a":"$@1c","u":"$@1d","b":"ZQ0vJLy7cUZwNdkln72WT"}
+14:null
+1d:true
+c:300
+c:C
+1c:0
+a:"$undefined"
+1b:"$undefined"
+15:"$undefined"

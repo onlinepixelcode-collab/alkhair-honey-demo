@@ -1,0 +1,10 @@
+:HL["/alkhair-honey-demo/_next/static/chunks/06x83vd34qn24.css","style"]
+:HL["/alkhair-honey-demo/_next/static/chunks/2xvelqgikms6u.css","style"]
+:HL["/alkhair-honey-demo/_next/static/media/67ff7386ca3ee52c-s.p.3slq8sz4zhb1g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alkhair-honey-demo/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alkhair-honey-demo/_next/static/media/9a321a2c78eff0b5-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alkhair-honey-demo/_next/static/media/e368dbf2d3b24ea3-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/alkhair-honey-demo/img/brand/pixelcode-cube.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"shipping","h":64,"c":"$Q2"}]]
+0:{"b":"ZQ0vJLy7cUZwNdkln72WT","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -1,0 +1,34 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+10:"/alkhair-honey-demo/_next/static/chunks/3hpld615ao8-w.js"
+11:I[22016,["$3","$4","$5","$6","$7","$10"],""]
+12:I[20783,["$3","$4","$5","$6","$7","$10"],"default"]
+13:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$3","$4","$5","$6","$7"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3","$4","$5","$6","$7"],"$19"]
+1b:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"phero","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap split","style":{"alignItems":"center"},"children":[["$","div",null,{"className":"stack","style":{"gap":18},"children":[["$","span",null,{"className":"eyebrow","children":["Honey collection · ",5," products"]}],["$","h1",null,{"data-split":true,"children":"Accessories"}],["$","p",null,{"className":"lede","children":"Dippers, bags and spatulas."}],["$","div",null,{"className":"pill-row","children":[["$","$L11","natural",{"className":"chip","href":"/collection/natural","children":[["$","i",null,{}],"Pure honey"]}],["$","$L11","infused",{"className":"chip","href":"/collection/infused","children":[["$","i",null,{}],"Infused honey"]}],["$","$L11","tibb",{"className":"chip","href":"/collection/tibb","children":[["$","i",null,{}],"NatuMed Tibb"]}],["$","$L11","comb",{"className":"chip","href":"/collection/comb","children":[["$","i",null,{}],"Honeycomb"]}],["$","$L11","gifts",{"className":"chip","href":"/collection/gifts","children":[["$","i",null,{}],"Gifting"]}]]}]]}],"$undefined"]}]]}],["$","$L12",null,{"range":"extras"}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/3hpld615ao8-w.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$c"}}]]
+d:[["children",{"s":{"n":"range","t":"d","k":"extras","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$b","s":"$c"},"c":"$Qf"}]]
+1:[["children",{"s":"collection","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Accessories · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"Accessories from Al Khair Honey: Dippers, bags and spatulas."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Accessories · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"Accessories from Al Khair Honey: Dippers, bags and spatulas."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Accessories · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"Accessories from Al Khair Honey: Dippers, bags and spatulas."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L1b","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$c"}},"a":"$@1d","u":"$@1e","b":"ZQ0vJLy7cUZwNdkln72WT"}
+15:null
+1e:true
+c:300
+c:C
+1d:0
+e:"$undefined"
+a:"$undefined"
+1c:"$undefined"
+16:"$undefined"

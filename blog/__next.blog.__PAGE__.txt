@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:"/alkhair-honey-demo/_next/static/chunks/0i0fwdrvd9y4s.js"
+f:I[22016,["$3","$4","$5","$6","$7","$e"],""]
+10:I[14282,["$3","$4","$5","$6","$7","$e"],"default"]
+11:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$3","$4","$5","$6","$7"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6","$7"],"$17"]
+19:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/alkhair-honey-demo/frames/hive/d/0040.webp","image"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"jhero","children":[["$","div",null,{"className":"hexbg","aria-hidden":"true"}],["$","div",null,{"className":"wrap jhero__in","children":[["$","div",null,{"className":"jhero__copy","children":[["$","span",null,{"className":"eyebrow","children":"Journal"}],["$","h1",null,{"children":["Notes from ",["$","em",null,{"className":"honey-text","children":"the hive."}]]}],["$","p",null,{"className":"lede","children":"Recipes, nectar guides and how Al Khair keeps honey raw, from the team in Benoni."}],["$","ul",null,{"className":"rp__stats","aria-label":"In the journal","children":[["$","li",null,{"children":[["$","b",null,{"className":"num","children":15}],["$","span",null,{"children":"stories"}]]}],["$","li",null,{"children":[["$","b",null,{"className":"num","children":7}],["$","span",null,{"children":"from the kitchen"}]]}],["$","li",null,{"children":[["$","b",null,{"className":"num","children":8}],["$","span",null,{"children":"honey guides"}]]}]]}],["$","div",null,{"className":"pill-row","children":[["$","a",null,{"className":"btn hexbtn","href":"#stories","children":"Browse stories"}],["$","$Lf",null,{"className":"btn btn--ghost hexbtn","href":"/recipes","children":"Recipes"}]]}]]}],["$","$Lf",null,{"className":"jhero__feat","href":"/blog/the-buzz-on-bees-a-comparison-of-african-australian-and-european-bees","data-cursor":"Read","children":[["$","span",null,{"className":"jhero__cell","children":["$","img",null,{"src":"/alkhair-honey-demo/frames/hive/d/0040.webp","alt":""}]}],["$","span",null,{"className":"jhero__card","children":[["$","span",null,{"className":"mono","children":["Featured · ",1," min read"]}],["$","b",null,{"children":"The Buzz on Bees: A Comparison of African, Australian, and European Bees"}],["$","span",null,{"className":"note","style":{"margin":0},"children":"28 September 2024"}],["$","em",null,{"children":"Read the story →"}]]}]]}]]}]]}],["$","section",null,{"className":"section","id":"stories","style":{"scrollMarginTop":90},"children":["$","div",null,{"className":"wrap","children":["$","$L10",null,{"skip":"the-buzz-on-bees-a-comparison-of-african-australian-and-european-bees"}]}]}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/0i0fwdrvd9y4s.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+1:[["children",{"s":"blog","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Journal · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"Recipes and honey guides from Al Khair: South African nectar sources, creamed honey, quality control and cooking with honey."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Journal · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"Recipes and honey guides from Al Khair: South African nectar sources, creamed honey, quality control and cooking with honey."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Journal · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"Recipes and honey guides from Al Khair: South African nectar sources, creamed honey, quality control and cooking with honey."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L19","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"ZQ0vJLy7cUZwNdkln72WT"}
+13:null
+1c:true
+c:300
+c:C
+1b:0
+a:"$undefined"
+1a:"$undefined"
+14:"$undefined"

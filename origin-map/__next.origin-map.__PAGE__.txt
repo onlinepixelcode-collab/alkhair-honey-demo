@@ -1,0 +1,32 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:"/alkhair-honey-demo/_next/static/chunks/0hmg3p-_wrzc1.js"
+f:I[30979,["$3","$4","$5","$6","$7","$e"],"default"]
+10:I[22016,["$3","$4","$5","$6","$7","$e"],""]
+11:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$3","$4","$5","$6","$7"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6","$7"],"$17"]
+19:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"phero","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap","children":[["$","span",null,{"className":"eyebrow","children":"Origin map"}],["$","h1",null,{"data-split":true,"style":{"marginTop":18},"children":["Nine provinces ",["$","em",null,{"className":"honey-text","children":"of nectar."}]]}],["$","p",null,{"className":"lede","children":"Western Cape fynbos to Limpopo orchards: tap a province to see what flowers there and which Al Khair honeys come from those nectar flows."}],"$undefined"]}]]}],["$","section",null,{"className":"section","style":{"paddingTop":0},"children":["$","div",null,{"className":"wrap","children":["$","$Lf",null,{}]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap split","children":[["$","div",null,{"className":"stack","style":{"gap":16},"children":[["$","span",null,{"className":"eyebrow","children":"Why it matters"}],["$","h2",null,{"data-split":true,"children":["On a white label,",["$","br",null,{}],"the name is ",["$","em",null,{"children":"the flower."}]]}]]}],["$","div",null,{"className":"stack","style":{"gap":18},"children":[["$","p",null,{"className":"lede","children":"Orange Blossom, Litchi, Macadamia and Bluegum are the nectar sources the bees visited, so colour and taste change with the season and the region."}],["$","div",null,{"className":"pill-row","children":[["$","$L10",null,{"className":"btn hexbtn","href":"/honey-truth","children":"How to spot real honey"}],["$","$L10",null,{"className":"btn btn--ghost hexbtn","href":"/flavour-wheel","children":"Flavour wheel"}]]}]]}]]}]}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/0hmg3p-_wrzc1.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+1:[["children",{"s":"origin-map","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Origin map · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"South Africa's nine honey provinces as a honeycomb: each province's share of SA honey, its main flora and the nectar honeys from those flows."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Origin map · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"South Africa's nine honey provinces as a honeycomb: each province's share of SA honey, its main flora and the nectar honeys from those flows."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Origin map · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"South Africa's nine honey provinces as a honeycomb: each province's share of SA honey, its main flora and the nectar honeys from those flows."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L19","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"ZQ0vJLy7cUZwNdkln72WT"}
+13:null
+1c:true
+c:300
+c:C
+1b:0
+a:"$undefined"
+1a:"$undefined"
+14:"$undefined"

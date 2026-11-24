@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:I[22016,["$3","$4","$5","$6","$7"],""]
+f:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6","$7"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5","$6","$7"],"$15"]
+17:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"phero nf","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap","style":{"display":"grid","gap":20,"justifyItems":"start"},"children":[["$","span",null,{"className":"nf__hex","aria-hidden":"true","children":"404"}],["$","span",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":["This cell is ",["$","em",null,{"className":"honey-text","children":"empty."}]]}],["$","p",null,{"className":"lede","children":"The page you're after has moved or never existed. The honey is still here."}],["$","div",null,{"className":"pill-row","children":[["$","$Le",null,{"className":"btn btn--honey hexbtn","href":"/shop","children":"Shop the honey"}],["$","$Le",null,{"className":"btn btn--ghost hexbtn","href":"/","children":"Back home"}]]}]]}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$c"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Al Khair Honey · Raw, pure and honest since 2002"}],["$","meta","1",{"name":"description","content":"Raw South African honey, never heated, never irradiated, never mixed. Shop pure, infused and NatuMed Tibb honey, build a hexagon gift box, or find your perfect honey."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Al Khair Honey · Raw, pure and honest since 2002"}],["$","meta","5",{"property":"og:description","content":"Raw South African honey, never heated, never irradiated, never mixed. Shop pure, infused and NatuMed Tibb honey, build a hexagon gift box, or find your perfect honey."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Al Khair Honey · Raw, pure and honest since 2002"}],["$","meta","11",{"name":"twitter:description","content":"Raw South African honey, never heated, never irradiated, never mixed. Shop pure, infused and NatuMed Tibb honey, build a hexagon gift box, or find your perfect honey."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L17","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$c"}},"a":"$@19","u":"$@1a","b":"ZQ0vJLy7cUZwNdkln72WT"}
+11:null
+1a:true
+c:300
+c:C
+19:0
+a:"$undefined"
+18:"$undefined"
+12:"$undefined"

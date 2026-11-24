@@ -1,0 +1,32 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:"/alkhair-honey-demo/_next/static/chunks/317od63x17don.js"
+f:I[32556,["$3","$4","$5","$6","$7","$e"],"default"]
+10:I[22016,["$3","$4","$5","$6","$7","$e"],""]
+11:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$3","$4","$5","$6","$7"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6","$7"],"$17"]
+19:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"phero","children":[["$","div",null,{"className":"hexbg"}],["$","div",null,{"className":"wrap","children":[["$","span",null,{"className":"eyebrow","children":"Verify authenticity"}],["$","h1",null,{"data-split":true,"style":{"marginTop":18},"children":["Is it really ",["$","em",null,{"className":"honey-text","children":"Al Khair?"}]]}],["$","p",null,{"className":"lede","children":"Every The Goodness by Al Khair Honey product carries a unique holographic authenticity label. Enter the serial number printed on it, or scan its QR code."}],"$undefined"]}]]}],["$","section",null,{"className":"section","style":{"paddingTop":0},"children":["$","div",null,{"className":"wrap verify","children":[["$","div",null,{"className":"holo","aria-hidden":"true","children":["$","div",null,{"className":"holo__in","children":[["$","span",null,{"className":"logo-bee"}],["$","span",null,{"className":"mono","children":"The Goodness · authentic"}],["$","b",null,{"children":"AK · ••••••"}]]}]}],["$","$Lf",null,{}]]}]}],["$","section",null,{"className":"section","style":{"paddingTop":0},"children":["$","div",null,{"className":"wrap","children":[["$","ol",null,{"className":"process","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(min(100%, 220px), 1fr))"},"children":[[["$","li","Find the hologram",{"children":[["$","h3",null,{"className":"h3","style":{"fontSize":22},"children":"Find the hologram"}],["$","p",null,{"style":{"color":"var(--muted)"},"children":"The holographic label sits on the jar. It shifts colour as you tilt it."}]]}],["$","li","Read the serial",{"children":[["$","h3",null,{"className":"h3","style":{"fontSize":22},"children":"Read the serial"}],["$","p",null,{"style":{"color":"var(--muted)"},"children":"Each label has its own printed serial number and QR code."}]]}],["$","li","Check it",{"children":[["$","h3",null,{"className":"h3","style":{"fontSize":22},"children":"Check it"}],["$","p",null,{"style":{"color":"var(--muted)"},"children":"Enter it above, or scan the QR code with your phone camera."}]]}]],["$","li",null,{"children":[["$","h3",null,{"className":"h3","style":{"fontSize":22},"children":"Not matching?"}],["$","p",null,{"style":{"color":"var(--muted)"},"children":["Tell Al Khair on ",["$","a",null,{"className":"link","href":"https://wa.me/27812732000?text=Hi%20Al%20Khair%2C%20my%20jar's%20serial%20doesn't%20verify.%20I%20bought%20it%20at%3A%20","target":"_blank","rel":"noopener","children":"WhatsApp"}]," where you bought it."]}]]}]]}],["$","p",null,{"className":"note","style":{"marginTop":24},"children":["Curious how to spot fake honey in general? ",["$","$L10",null,{"className":"link","href":"/honey-truth","children":"Try the real-vs-fake tests"}],"."]}]]}]}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/317od63x17don.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+1:[["children",{"s":"verify","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Verify a jar · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"Every Al Khair product carries a holographic authenticity label with its own serial number. Check yours on Al Khair's verifier."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Verify a jar · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"Every Al Khair product carries a holographic authenticity label with its own serial number. Check yours on Al Khair's verifier."}],["$","meta","6",{"property":"og:site_name","content":"Al Khair Honey"}],["$","meta","7",{"property":"og:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Verify a jar · Al Khair Honey"}],["$","meta","11",{"name":"twitter:description","content":"Every Al Khair product carries a holographic authenticity label with its own serial number. Check yours on Al Khair's verifier."}],["$","meta","12",{"name":"twitter:image","content":"https://thehoney4u.com/img/hero/banner-desktop.webp"}],["$","link","13",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L19","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"ZQ0vJLy7cUZwNdkln72WT"}
+13:null
+1c:true
+c:300
+c:C
+1b:0
+a:"$undefined"
+1a:"$undefined"
+14:"$undefined"

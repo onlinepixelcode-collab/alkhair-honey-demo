@@ -1,0 +1,36 @@
+2:"$Sreact.fragment"
+3:"/alkhair-honey-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/alkhair-honey-demo/_next/static/chunks/3g_odc8h3mp2_.js"
+5:"/alkhair-honey-demo/_next/static/chunks/3uy0j_g0uafu_.js"
+6:"/alkhair-honey-demo/_next/static/chunks/126zx7g966pwo.js"
+7:"/alkhair-honey-demo/_next/static/chunks/3dofjnem-o1wb.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+10:"/alkhair-honey-demo/_next/static/chunks/18x32aqymgix9.js"
+11:I[24715,["$3","$4","$5","$6","$7","$10"],"default"]
+12:I[22016,["$3","$4","$5","$6","$7","$10"],""]
+13:I[48185,["$3","$4","$5","$6","$7","$10"],"default"]
+14:I[24715,["$3","$4","$5","$6","$7","$10"],"RecentlyViewed"]
+15:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+16:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$3","$4","$5","$6","$7"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$3","$4","$5","$6","$7"],"$1b"]
+1d:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","$L11",null,{"slug":"150g-honey-favors-2"}],["$","section",null,{"className":"section","style":{"paddingTop":0},"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"head head--row","children":[["$","h2",null,{"children":"You may also like"}],["$","$L12",null,{"className":"link","href":"/collection/gifts","children":["More ","gifting"," →"]}]]}],["$","div",null,{"className":"grid","children":[["$","$L13","11334",{"p":{"id":11334,"name":"Macadamia Madness","price":600,"range":"gifts","cats":["Combos","Promo"],"img":"/alkhair-honey-demo/img/products/11334.jpg","thumb":"/alkhair-honey-demo/img/products/11334.jpg","url":"https://thehoney4u.com/product/macadamia-madness/","short":"","stock":true,"remote":"https://thehoney4u.com/wp-content/uploads/2026/10/1003452423.jpg","slug":"macadamia-madness"}}],["$","$L13","11029",{"p":{"id":11029,"name":"Luxury Cosmetic Bag","price":29,"range":"gifts","cats":["Accessories","Gifting"],"img":"/alkhair-honey-demo/img/products/11029.jpg","thumb":"/alkhair-honey-demo/img/products/11029.jpg","url":"https://thehoney4u.com/product/luxury-cosmetic-bag/","short":"","stock":true,"remote":"https://thehoney4u.com/wp-content/uploads/2026/06/75ac8ff4-a2d3-47d5-a3cf-1c2902ab84db.jpg","slug":"luxury-cosmetic-bag"}}],["$","$L13","11023",{"p":{"id":11023,"name":"Tote Bag","price":249,"range":"gifts","cats":["Accessories","Gifting"],"img":"/alkhair-honey-demo/img/products/11023.jpg","thumb":"/alkhair-honey-demo/img/products/11023.jpg","url":"https://thehoney4u.com/product/tote-bag-2/","short":"A stylish glossy black tote bag designed for elegant gifting and everyday use.","stock":true,"remote":"https://thehoney4u.com/wp-content/uploads/2026/06/bag1.png","slug":"tote-bag-2"}}],["$","$L13","11004",{"p":{"id":11004,"name":"Tote Gift Promo","price":395,"range":"gifts","cats":["Accessories","Gifting","Promo"],"img":"/alkhair-honey-demo/img/products/11004.jpg","thumb":"/alkhair-honey-demo/img/products/11004.jpg","url":"https://thehoney4u.com/product/tote-gift-bag/","short":"✨ Premium Honey Gift Bag ✨ A sophisticated gourmet gift featuring premium infused honey, Honey Harissa Sauce, a wooden honey dipper and a luxury reusable tote bag.","stock":true,"remote":"https://thehoney4u.com/wp-content/uploads/2026/06/3f9b18b7-1538-45f7-8a91-c227b7f64192.jpg","slug":"tote-gift-bag"}}]]}]]}]}],["$","$L14",null,{"exclude":7778}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"150g, Honey Favors\",\"image\":\"https://thehoney4u.com/wp-content/uploads/2024/05/2874649547.jpg\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Al Khair Honey\"},\"offers\":{\"@type\":\"Offer\",\"priceCurrency\":\"ZAR\",\"price\":52,\"availability\":\"https://schema.org/InStock\",\"url\":\"https://thehoney4u.com/product/150g-honey-favors-2/\"}}"}}]],[["$","script","script-0",{"src":"/alkhair-honey-demo/_next/static/chunks/18x32aqymgix9.js","async":true}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":"$@18","v":null,"s":"$c"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"150g-honey-favors-2","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$b","s":"$c"},"c":"$Qf"}]]
+1:[["children",{"s":"product","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0F0A12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"150g, Honey Favors · Al Khair Honey"}],["$","meta","1",{"name":"description","content":"150g, Honey Favors: raw South African honey from Al Khair Honey, since 2002."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"150g, Honey Favors · Al Khair Honey"}],["$","meta","5",{"property":"og:description","content":"150g, Honey Favors: raw South African honey from Al Khair Honey, since 2002."}],["$","meta","6",{"property":"og:image","content":"https://thehoney4u.com/img/products/7778.jpg"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"150g, Honey Favors · Al Khair Honey"}],["$","meta","9",{"name":"twitter:description","content":"150g, Honey Favors: raw South African honey from Al Khair Honey, since 2002."}],["$","meta","10",{"name":"twitter:image","content":"https://thehoney4u.com/img/products/7778.jpg"}],["$","link","11",{"rel":"icon","href":"/alkhair-honey-demo/img/favicon.svg"}],["$","$L1d","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$c"}},"a":"$@1f","u":"$@20","b":"ZQ0vJLy7cUZwNdkln72WT"}
+17:null
+20:true
+c:300
+c:C
+1f:0
+e:"$undefined"
+a:"$undefined"
+1e:"$undefined"
+18:"$undefined"
